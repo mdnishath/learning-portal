@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz Submission Form</title>
+  </head>
+  <body>
+    <form id="quiz-form" method="POST" action="submit_quiz_data">
+      <input
+        type="hidden"
+        name="question"
+        value="What is a Debounce function in JavaScript?"
+      />
+      <input type="hidden" name="video_id" value="1" />
+      <input
+        type="hidden"
+        name="video_title"
+        value="Debounce Function in JavaScript - JavaScript Job Interview question"
+      />
+
+      <div>
+        <label for="option1">Option 1:</label>
+        <input type="text" id="option1" name="option1" required />
+        <label for="isCorrect1">Is Correct:</label>
+        <input type="checkbox" id="isCorrect1" name="isCorrect1" />
+      </div>
+
+      <div>
+        <label for="option2">Option 2:</label>
+        <input type="text" id="option2" name="option2" required />
+        <label for="isCorrect2">Is Correct:</label>
+        <input type="checkbox" id="isCorrect2" name="isCorrect2" />
+      </div>
+
+      <div>
+        <label for="option3">Option 3:</label>
+        <input type="text" id="option3" name="option3" required />
+        <label for="isCorrect3">Is Correct:</label>
+        <input type="checkbox" id="isCorrect3" name="isCorrect3" />
+      </div>
+
+      <div>
+        <label for="option4">Option 4:</label>
+        <input type="text" id="option4" name="option4" required />
+        <label for="isCorrect4">Is Correct:</label>
+        <input type="checkbox" id="isCorrect4" name="isCorrect4" />
+      </div>
+
+      <button type="submit">Submit Quiz Data</button>
+    </form>
+  </body>
+</html>

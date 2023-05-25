@@ -1,0 +1,248 @@
+{
+  "users": [
+    {
+      "email": "admin@learnwithsumit.com",
+      "password": "$2a$10$/TDPCTU28mFzKnSsW2pHSu512mpMKxLf8eiPbcTFLSNL87tbZBp3W",
+      "role": "admin",
+      "name": "LWS Admin",
+      "id": 1
+    },
+    {
+      "email": "saad.hasan@learnwithsumit.com",
+      "password": "$2a$10$4iJEmSkM1Dq6WMRb0SuJeeic1SEB9TrH3gw5IT441Adox/ZZXj2Ae",
+      "role": "student",
+      "name": "Saad Hasan",
+      "id": 2
+    },
+    {
+      "email": "akash.ahmed@learnwithsumit.com",
+      "password": "$2a$10$TNsYpL6ffKBrupNNvdJlleJlgIkp1C1xQJCbiv7HAl5Ggs.kucie2",
+      "role": "student",
+      "name": "Akash Ahmed",
+      "id": 3
+    },
+    {
+      "email": "md.salahuddin@learnwithsumit.com",
+      "password": "$2a$10$dcWjzIi4mLAERlWE4nfJW.1/mvC9FXqZU8A2V1rPlsqIrP3kWa8PG",
+      "role": "student",
+      "name": "Mohammad Salahuddin",
+      "id": 4
+    },
+    {
+      "email": "ferdous.shohag@learnwithsumit.com",
+      "password": "$2a$10$IZ6eXNauYSqMhl38Wc46texV2vjGZz.Zl66j7hrnW6ZDSDcMlPWeu",
+      "role": "student",
+      "name": "Ferdous",
+      "id": 5
+    },
+    {
+      "email": "riyadh.vai@learnwithsumit.com",
+      "password": "$2a$10$e4XPY48UpqmAj8teZ2je8.qd5AEk6hWm5PQwDoJsCsE91qlDPJx1G",
+      "role": "student",
+      "name": "Riyadh",
+      "id": 6
+    },
+    {
+      "email": "arif.almas@learnwithsumit.com",
+      "password": "$2a$10$NN4pXB4tBMw.ySrMDPMymepSGDdcvKzx/RjNCrdNTENOFVLWCWGOi",
+      "role": "student",
+      "name": "Arif",
+      "id": 7
+    },
+    {
+      "email": "sdfsdf@dfgf.com",
+      "password": "$2a$10$ZmsbB2CEx77DnlV3gw2tM.yNgvWYfoMJjNHlRAWfNtQ4loQ.c7M2W",
+      "id": 8
+    }
+  ],
+  "videos": [
+    {
+      "title": "#1 What is React and How it works - React Tutorial Bangla Series",
+      "description": "React JS - বর্তমান সময়ের সবচেয়ে popular web library. আপনাদের বারবার অনুরোধে আমি আমার চ্যানেলে এই ভিডিওটি দিয়ে React এর একটা Tutorial Series চালু করছি। এজন্য আমি একটি Playlist তৈরী করে দিয়েছি যেটার নাম হলো - \"Think in a React way'. Playlist এর লিংক নিচে দেয়া আছে। এই series এ আমি শুরু থেকে React JS এর fundamental ব্যাপার গুলো সহজ বাংলা ভাষায় বুঝানোর চেষ্টা করবো। এই ভিডিওতে আমি React কি, কেন আমরা React শিখবো এবং React এর fundamental concept টা বুঝানোর চেষ্টা করেছি উদাহরণ দিয়ে। আশা করি ভিডিওটি যেকোন একজন Beginner যার JavaScript সম্পর্কে basic ধারণা আছে, তার উপকারে আসবে। সেই সাথে এই playlist এর পরবর্তী video গুলো ধারাবাহিকভাবে follow করলে আশা করি আপনারা React JS বুঝতে পারবেন এবং কাজ করতে পারবেন।",
+      "url": "https://www.youtube.com/embed/5Xy-t8k_M4A",
+      "views": "94.6K",
+      "duration": "28.06",
+      "createdAt": "4/4/2023, 2:19:27 PM",
+      "id": 3
+    },
+    {
+      "title": "#2 React Virtual DOM Explained - Easy Explanation - React Tutorial Bangla Series",
+      "description": "React JS এর ক্ষেত্রে আমরা বারবারই একটা fancy word শুনে থাকি, সেটা হলো Virtual DOM! যে myth টা মানুষের মধ্যে ঢুকে আছে সেটা হলো - Virtual DOM, আমাদের চির পরিচিত browser DOM এর থেকে অনেক fast এবং একারণে vanilla DOM এর থেকে React অনেক fast User Interface Render করে! আসলেই কি তাই? React কি শুধুই Performance achieve করার জন্যই Virtual DOM use করে? এই Video টি দেখলে আসলে কি হচ্ছে সেটা আপনারা বুঝতে পারবেন। সঠিক ধারণা পাবেন Virtual DOM সম্পর্কে যেটা যতদিন react নিয়ে কাজ করবেন, আপনাদের অনেক বেশি কাজে দিবে বলে আমার বিশ্বাস।",
+      "url": "https://www.youtube.com/embed/2C5834qx0sA",
+      "views": "943.6K",
+      "duration": "35.51",
+      "createdAt": "4/4/2023, 2:20:43 PM",
+      "id": 4
+    },
+    {
+      "title": "#3 [Deprecated] ESLint, Formatting with Prettier & Project Setup - React Tutorial Bangla Series",
+      "description": " Single Page React JS project - এর জন্য Facebook team আমাদেরকে create-react-app নামক একটি package দিয়েছে। এই ভিডিওতে আমি create-react-app package দিয়ে কিভাবে React application project setup করবেন সেটা দেখিয়েছি। সেই সাথে Editor Setup, Automatic Code Formatting & Linting Setup কিভাবে করবেন সেটাও ব্যাখ্যা করেছি। Code Formatting & Linting এর জন্য আমি ESLint, Prettier ব্যবহার করেছি এবং জনপ্রিয় Airbnb Style Guide follow করেছি। পরিশেষে, আমার এই series এ আমি পরবর্তীতে কোন কোন বিষয়ে Tutorial দিব সেটা নিয়েও একটা ধারণা দিয়েছি।",
+      "url": "https://www.youtube.com/embed/ii8GaRjRoNI",
+      "views": "94.6K",
+      "duration": "27.44",
+      "createdAt": "4/4/2023, 2:21:33 PM",
+      "id": 5
+    }
+  ],
+  "assignments": [
+    {
+      "title": "Assignment - 1",
+      "totalMark": 100,
+      "video_id": 3,
+      "video_title": "#1 What is React and How it works - React Tutorial Bangla Series",
+      "id": 1
+    },
+    {
+      "title": "Assignment - 2",
+      "totalMark": 100,
+      "video_id": 4,
+      "video_title": "#2 React Virtual DOM Explained - Easy Explanation - React Tutorial Bangla Series",
+      "id": 2
+    },
+    {
+      "title": "Assignment - 3",
+      "totalMark": 100,
+      "video_id": 5,
+      "video_title": "#3 [Deprecated] ESLint, Formatting with Prettier & Project Setup - React Tutorial Bangla Series",
+      "id": 3
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is react js?",
+      "video_id": 3,
+      "video_title": "#1 What is React and How it works - React Tutorial Bangla Series",
+      "options": [
+        {
+          "id": 1,
+          "option": "JavaScript framework",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "JavaScript library",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "I don't know",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "JavaScript Run time",
+          "isCorrect": false
+        }
+      ],
+      "id": 1
+    },
+    {
+      "question": "Is react js bad for seo?",
+      "video_id": 3,
+      "video_title": "#1 What is React and How it works - React Tutorial Bangla Series",
+      "options": [
+        {
+          "id": 1,
+          "option": "Yes",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "No",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "I don't know",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "All",
+          "isCorrect": false
+        }
+      ],
+      "id": 2
+    },
+    {
+      "question": "What is react dom?",
+      "video_id": 4,
+      "video_title": "#2 React Virtual DOM Explained - Easy Explanation - React Tutorial Bangla Series",
+      "options": [
+        {
+          "id": 1,
+          "option": "NPM ",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "NODE",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "DOM is a tree-like structure that contains all the elements and it's properties of a website as its nodes",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "I don't know",
+          "isCorrect": false
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "assignmentMark": [
+    {
+      "id": 1,
+      "student_id": 2,
+      "student_name": "Saad Hasan",
+      "assignment_id": 1,
+      "title": "Assignment 1 - Implement Debounce Function",
+      "createdAt": "2021-01-15T15:17:01.727Z",
+      "totalMark": 100,
+      "mark": 10,
+      "repo_link": "https://github.com/Learn-with-Sumit/assignment-1",
+      "status": "published"
+    },
+    {
+      "id": 2,
+      "student_id": 2,
+      "student_name": "Saad Hasan",
+      "assignment_id": 1,
+      "title": "Assignment 2 - Implement Best Practices",
+      "createdAt": "2021-01-15T15:17:01.727Z",
+      "totalMark": 100,
+      "mark": 20,
+      "repo_link": "https://github.com/Learn-with-Sumit/assignment-1",
+      "status": "published"
+    },
+    {
+      "id": 3,
+      "student_id": 3,
+      "student_name": "Akash Ahmed",
+      "assignment_id": 1,
+      "title": "Assignment 2 - Implement Best Practices",
+      "createdAt": "2021-01-15T15:17:01.727Z",
+      "totalMark": 100,
+      "mark": 99,
+      "repo_link": "https://github.com/Learn-with-Sumit/assignment-1",
+      "status": "published"
+    }
+  ],
+  "quizMark": [
+    {
+      "id": 1,
+      "student_id": 2,
+      "student_name": "Saad Hasan",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "totalQuiz": 2,
+      "totalCorrect": 1,
+      "totalWrong": 1,
+      "totalMark": 10,
+      "mark": 5
+    }
+  ]
+}
